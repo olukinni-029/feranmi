@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "App_note.js",
   "scripts": {
-    "start": "nodemon src/App_note.js"
+    "start": "node src/App_note.js"
   },
   "keywords": [],
   "author": "",
